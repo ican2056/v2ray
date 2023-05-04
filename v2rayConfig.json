@@ -1,6 +1,7 @@
 {
   "inbounds": [{
-    "port": 10086,
+    "port": 1999,
+    "listen":"127.0.0.1",//只监听 127.0.0.1，避免除本机外的机器探测到开放了 1999 端口
     "protocol": "vmess",
     "settings": {
       "clients": [
