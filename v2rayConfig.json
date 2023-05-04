@@ -12,6 +12,12 @@
         }
       ]
     }
+    "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+        "path": "/kshad"
+        }
+     }
   }],
   "outbounds": [{
     "protocol": "freedom",
