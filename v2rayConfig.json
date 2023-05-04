@@ -15,7 +15,7 @@
     "streamSettings": {
         "network": "ws",
         "wsSettings": {
-        "path": "/letwechat-30bd"
+            "path": "/letwechat-30bd"
         }
      }
   }],
